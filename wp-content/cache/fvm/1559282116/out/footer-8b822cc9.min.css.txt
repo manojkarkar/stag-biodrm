@@ -1,0 +1,8 @@
+PROCESSED on Sat, 01 Jun 2019 09:48:47 +0000
+/wp-content/plugins/woo-gutenberg-products-block/build/vendors.css
+/wp-content/plugins/woo-gutenberg-products-block/build/featured-product.css
+/wp-content/plugins/contact-form-7/includes/css/styles.css
+/wp-content/plugins/wp-store-locator/css/styles.min.css
+/wp-content/themes/bioderma-india/css/portfolio.css
+/wp-content/themes/bioderma-india/css/gallery.css
+PROCESSED from https://biodermaindia.com/

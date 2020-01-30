@@ -1,0 +1,24 @@
+2020-01-29T10:45:24+00:00 CRITICAL Uncaught Error: Call to undefined function add_product_summary_actions() in /var/www/html/bioderma/wp-content/themes/bioderma-india/woocommerce/content-single-product.php:63
+Stack trace:
+#0 /var/www/html/bioderma/wp-includes/template.php(724): require()
+#1 /var/www/html/bioderma/wp-content/plugins/woocommerce/includes/wc-core-functions.php(195): load_template('/var/www/html/b...', false)
+#2 /var/www/html/bioderma/wp-content/plugins/woocommerce/includes/wc-template-functions.php(931): wc_get_template_part('content', 'single-product')
+#3 /var/www/html/bioderma/wp-content/themes/bioderma-india/woocommerce.php(85): woocommerce_content()
+#4 /var/www/html/bioderma/wp-includes/template-loader.php(98): include('/var/www/html/b...')
+#5 /var/www/html/bioderma/wp-blog-header.php(19): require_once('/var/www/html/b...')
+#6 /var/www/html/bioderma/index.php(17): require('/var/www/html/b...')
+#7 {main}
+  thrown in /var/www/html/bioderma/wp-content/themes/bioderma-india/woocommerce/content-single-product.php on line 63
+
+2020-01-29T10:47:23+00:00 CRITICAL Uncaught Error: Call to undefined function add_product_summary_actions() in /var/www/html/bioderma/wp-content/themes/bioderma-india/woocommerce/content-single-product.php:63
+Stack trace:
+#0 /var/www/html/bioderma/wp-includes/template.php(724): require()
+#1 /var/www/html/bioderma/wp-content/plugins/woocommerce/includes/wc-core-functions.php(195): load_template('/var/www/html/b...', false)
+#2 /var/www/html/bioderma/wp-content/plugins/woocommerce/includes/wc-template-functions.php(931): wc_get_template_part('content', 'single-product')
+#3 /var/www/html/bioderma/wp-content/themes/bioderma-india/woocommerce.php(85): woocommerce_content()
+#4 /var/www/html/bioderma/wp-includes/template-loader.php(98): include('/var/www/html/b...')
+#5 /var/www/html/bioderma/wp-blog-header.php(19): require_once('/var/www/html/b...')
+#6 /var/www/html/bioderma/index.php(17): require('/var/www/html/b...')
+#7 {main}
+  thrown in /var/www/html/bioderma/wp-content/themes/bioderma-india/woocommerce/content-single-product.php on line 63
+

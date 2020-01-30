@@ -1,0 +1,9 @@
+PROCESSED on Fri, 14 Jun 2019 06:34:00 +0000
+/wp-content/plugins/anspress-question-answer/templates/css/fonts.css
+/wp-content/plugins/anspress-question-answer/templates/css/main.css
+/wp-content/plugins/anspress-question-answer/templates/css/overrides.css
+/wp-content/plugins/woo-gutenberg-products-block/build/vendors.css
+/wp-content/plugins/woo-gutenberg-products-block/build/featured-product.css
+/wp-content/plugins/contact-form-7/includes/css/styles.css
+/wp-content/plugins/wp-store-locator/css/styles.min.css
+PROCESSED from https://biodermaindia.com/
